@@ -19,7 +19,7 @@ function getPairsCount($arr, $n, $sum)
     $sum = 6;
     echo "Count of pairs is "
          , getPairsCount($arr, $n, $sum);
-          //rita kumari
-          //mukesh  
+          //rita kumari 34562
+        
 
 ?>
